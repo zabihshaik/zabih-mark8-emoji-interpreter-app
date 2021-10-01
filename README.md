@@ -1,2 +1,3 @@
 # zabih-mark8-emoji-interpreter-app
-Created with CodeSandbox
+
+An emoji interpreter App created using ReactJS to show the meaning of Emojis.
